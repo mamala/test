@@ -1,0 +1,111 @@
+Package: com.mamala.iap26
+Version: 0.0.1-5
+Section: Tweaks
+Maintainer: JustinPet26
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.iap26_0.0.1-5_iphoneos-arm.deb
+Size: 32354
+MD5sum: 6ff6fd0a824a8fb7965685ba45b5ca90
+Description: Free in app purchases by JustinPet26.Free in app LockScreen without asking for Password Confirmation.
+Name: iAP26
+Author: JustinPet26
+Depiction: https://imkpatil.github.io/repo/depiction/iap26/index.html
+
+Package: com.mamala.iap26
+Version: 0.0.1-5
+Section: Tweaks
+Maintainer: JustinPet26
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.iap_0.0.1-5_iphoneos-arm.deb
+Size: 32354
+MD5sum: 83a67bb9f0d3a015c19c9a866b7cdda3
+Description: Free in app purchases by JustinPet26.Free in app LockScreen without asking for Password Confirmation.
+Name: iAP26
+Author: JustinPet26
+Depiction: https://imkpatil.github.io/repo/depiction/iap26/index.html
+
+Package: com.mamala.inapp
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: System Administrator
+Depends: mobilesubstrate , firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.inapp_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3216
+MD5sum: 2afb349613c8a779fb1b17879f1369c5
+Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
+Name: Inapp
+Author: System Administrator
+Depiction: https://imkpatil.github.io/repo/depiction/iap26/index.html
+Icon: file:///Libary/TrashFromLS/TweakIcon.png
+
+Package: com.mamala.test
+Version: 1.2
+Section: Tweaks
+Maintainer: mrmad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.test_1.2_iphoneos-arm.deb
+Size: 28964
+MD5sum: 8b81c47aa16031de3ee19c73574c16e9
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Name: Test
+Author: mrmad
+
+Package: com.mamala.test1111
+Version: 1.2
+Section: Tweaks
+Maintainer: mrmad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.test1111_1.2_iphoneos-arm.deb
+Size: 28964
+MD5sum: 2979e253c1e7583ee0356f2c70b1e7bb
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Name: Test1111
+Author: mrmad
+
+Package: com.mamala.test2222
+Version: 1.2
+Section: Tweaks
+Maintainer: mrmad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.test2222_1.2_iphoneos-arm.deb
+Size: 28964
+MD5sum: 93460dfe2f08ac377d4a5525b3e7a490
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Name: Test2222
+Author: mrmad
+
+Package: com.mamala.test3333
+Version: 1.2
+Section: Tweaks
+Maintainer: mrmad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.test3333_1.2_iphoneos-arm.deb
+Size: 28966
+MD5sum: 6c091d755211b3268ce328607d0a26af
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Name: Test2222
+Author: mrmad
+
+Package: com.mamala.trash
+Version: 1.0.0-28+debug
+Section: Tweaks
+Maintainer: Kiran Patil
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.trash_1.0.0-28+debug_iphoneos-arm.deb
+Size: 2540
+Installed-Size: 72
+MD5sum: 66166e8404d45f7acd1d65afd4addfad
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Name: TrashFromLS
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/TrashFromLS/index.html
+Icon: file:///Libary/TrashFromLS/TweakIcon.png
+
