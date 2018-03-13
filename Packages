@@ -27,14 +27,14 @@ Author: JustinPet26
 Depiction: https://imkpatil.github.io/repo/depiction/iap26/index.html
 
 Package: com.mamala.inapp
-Version: 0.0.1-2+debug
+Version: 0.0.1-4+debug
 Section: Tweaks
 Maintainer: System Administrator
 Depends: mobilesubstrate , firmware (>= 11.0)
 Architecture: iphoneos-arm
-Filename: ./deb/com.mamala.inapp_0.0.1-2+debug_iphoneos-arm.deb
+Filename: ./deb/com.mamala.inapp_0.0.1-4+debug_iphoneos-arm.deb
 Size: 3216
-MD5sum: 2afb349613c8a779fb1b17879f1369c5
+MD5sum: 6139da96e5701afb8566ebbe98556811
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Name: Inapp
 Author: System Administrator
