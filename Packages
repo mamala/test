@@ -93,6 +93,19 @@ Description: A Simple Tweak that allows deleting emails from LockScreen without 
 Name: Test2222
 Author: mrmad
 
+Package: com.mamala.test4444
+Version: 1.2
+Section: Tweaks
+Maintainer: mrmad
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mamala.test4444_1.2_iphoneos-arm.deb
+Size: 28966
+MD5sum: eb535abc13d03b493283f0f565ecf77b
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Name: Test2222
+Author: mrmad
+
 Package: com.mamala.trash
 Version: 1.0.0-28+debug
 Section: Tweaks
