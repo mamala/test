@@ -13,8 +13,3 @@ Architectures: iphoneos-arm
 Components: main
 
 Description: 543
-
-MD5Sum:
-7a12993a72487ae56c3f483e01f0a724 1906 Packages
-0336b13ec4efc20966e282448429e179 672 Packages.gz
-5cbb1210eb59ef46fb638358ec832c8a 823 Packages.bz2
