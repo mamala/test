@@ -1,12 +1,12 @@
 Package: com.mamala.iap26
-Version: 0.0.1-5
+Version: 0.0.1-9
 Section: Tweaks
 Maintainer: JustinPet26
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.mamala.iap26_0.0.1-5_iphoneos-arm.deb
-Size: 32354
-MD5sum: 6ff6fd0a824a8fb7965685ba45b5ca90
+Filename: ./deb/com.mamala.iap26_0.0.1-9_iphoneos-arm.deb
+Size: 32356
+MD5sum: 7b0b062f37b39ef307262254a822e8f0
 Description: Free in app purchases by JustinPet26.Free in app LockScreen without asking for Password Confirmation.
 Name: iAP26
 Author: JustinPet26
